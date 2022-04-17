@@ -853,6 +853,11 @@ pre code {
 .post-body .note.danger h6 {
   color: #d9534f;
 }
+.pdfobject-container iframe,
+.pdfobject-container embed {
+  height: 500px;
+  width: 100%;
+}
 .post-body .tabs {
   margin-bottom: 20px;
 }
@@ -2410,9 +2415,6 @@ ul.breadcrumb li:last-child {
   border-bottom-color: #111;
   color: #111;
 }
-.utterances {
-  max-width: unset;
-}
 .search-active {
   overflow: hidden;
 }
@@ -2783,7 +2785,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #2abadb;
+  background: #ff3882;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
