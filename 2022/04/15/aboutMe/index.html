@@ -190,7 +190,7 @@
 
 
   <div class="links-of-blogroll site-overview-item animated">
-    <div class="links-of-blogroll-title"><i class="fa fa-globe fa-fw"></i>
+    <div class="links-of-blogroll-title"><i class="fa fa-heart fa-fw"></i>
       Links
     </div>
     <ul class="links-of-blogroll-list">
@@ -364,7 +364,20 @@
 
 
 
-    <div class="comments" id="lv-container" data-id="city" data-uid="MTAyMC81NjA4Mi8zMjU0NQ"></div>
+      <div class="tabs tabs-comment">
+        <ul class="nav-tabs">
+            <li class="tab"><a href="#comment-utterances">utterances</a></li>
+            <li class="tab"><a href="#comment-livere">livere</a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane utterances" id="comment-utterances">
+              <div class="comments utterances-container"></div>
+            </div>
+            <div class="tab-pane livere" id="comment-livere">
+              <div class="comments" id="lv-container" data-id="city" data-uid="MTAyMC81NjA4Mi8zMjU0NQ"></div>
+            </div>
+        </div>
+      </div>
 </div>
   </main>
 
@@ -406,6 +419,8 @@
 
 
 
+<script class="next-config" data-name="utterances" type="application/json">{"enable":true,"repo":"laowangyuxiaozhang/laowangyuxiaozhang.github.io","issue_term":"pathname","theme":"github-dark"}</script>
+<script src="/js/third-party/comments/utterances.js"></script>
 <script src="/js/third-party/comments/livere.js"></script>
 
 </body>
