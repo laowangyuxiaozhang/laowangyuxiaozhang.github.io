@@ -83,26 +83,28 @@
     
     
     <entry>
-      <title>令人眼前一亮的香港电影《使徒行者2：谍影行动》</title>
-      <link href="/2022/04/16/2022-04-16-movie/"/>
-      <url>/2022/04/16/2022-04-16-movie/</url>
+      <title>My movie list</title>
+      <link href="/2022/04/16/2022-04-16-movielist/"/>
+      <url>/2022/04/16/2022-04-16-movielist/</url>
       
-        <content type="html"><![CDATA[<p>童年的好友在神秘组织的干预下走上了不同的道路，三十年后的相遇又会发生什么样的故事？</p><span id="more"></span><p>豆瓣只有6.2分，但是相较于之前的经典打斗场面虽然显得没有那么吸引人，电影整体还是可圈可点，算是近期港片市场难得一见让人眼前一亮的港片了。</p><p>不得不说，反派男主简直太拉跨，一个只会露出邪淫的笑容的脸，看着实在，唉，太拉跨。</p><h1 id="豆瓣链接"><a href="#豆瓣链接" class="headerlink" title="豆瓣链接"></a>豆瓣链接</h1><p><a href="https://movie.douban.com/subject/30423193/">豆瓣链接</a></p><p><img src="/images//shituxingzhe2.jpg" alt="使徒行者2：谍影行动" title="使徒行者2：谍影行动" width="200"/>`</p><hr>]]></content>
+        <content type="html"><![CDATA[<p>将自己所看的电影做一个记录。</p><span id="more"></span><h1 id="1《使徒行者2：谍影行动》"><a href="#1《使徒行者2：谍影行动》" class="headerlink" title="1《使徒行者2：谍影行动》"></a>1《使徒行者2：谍影行动》</h1><p>童年的好友在神秘组织的干预下走上了不同的道路，三十年后的相遇又会发生什么样的故事？<br>虽然豆瓣只有6.2分，但是相较于之前的经典打斗场面虽然显得没有那么吸引人，电影整体还是可圈可点，算是近期港片市场难得一见让人眼前一亮的港片了。</p><p><strong>不得不说，反派男主简直太拉跨，一个只会露出邪淫的笑容的脸，看着实在，唉，太拉跨。</strong></p><p><a href="https://movie.douban.com/subject/30423193/">豆瓣链接</a></p><hr>]]></content>
       
       
       <categories>
           
           <category> 生活 </category>
           
+          <category> life </category>
+          
       </categories>
       
       
         <tags>
+            
+            <tag> Movie </tag>
             
             <tag> 电影 </tag>
             
-            <tag> 分享 </tag>
-            
         </tags>
       
     </entry>
@@ -110,23 +112,27 @@
     
     
     <entry>
-      <title>关于【老王与小张】</title>
-      <link href="/2022/04/15/aboutMe/"/>
-      <url>/2022/04/15/aboutMe/</url>
+      <title>My book list</title>
+      <link href="/2022/04/15/2022-04-15-booklist/"/>
+      <url>/2022/04/15/2022-04-15-booklist/</url>
       
-        <content type="html"><![CDATA[<p>点击查看关于【老王与小张】→→→：<a href="https://laowangyuxiaozhang.github.io/about/">关于老王与小张</a></p>]]></content>
+        <content type="html"><![CDATA[<p>将自己所看的书籍做一个记录。</p><span id="more"></span><h1 id="What-I-am-reading-noe"><a href="#What-I-am-reading-noe" class="headerlink" title="What I am reading noe?"></a>What I am reading noe?</h1><p>A farewell to arms by Ernest Hemingway</p><hr>]]></content>
       
       
       <categories>
           
-          <category> 私房 </category>
+          <category> 生活 </category>
+          
+          <category> life </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 分享 </tag>
+            <tag> 书籍 </tag>
+            
+            <tag> Book </tag>
             
         </tags>
       
@@ -135,25 +141,23 @@
     
     
     <entry>
-      <title>这是第一篇测试文档</title>
+      <title>This is a test blog</title>
       <link href="/2022/04/14/FirstBlog/"/>
       <url>/2022/04/14/FirstBlog/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><p><code># 这是一级标题</code></p><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p><code>## 这是二级标题</code></p><h3 id="这是一级标题-1"><a href="#这是一级标题-1" class="headerlink" title="这是一级标题"></a>这是一级标题</h3><p><code>### 这是一级标题</code></p><span id="more"></span><ul><li>列表1</li><li>列表2<br>  a 子列表<br>  b 子列表</li><li>列表3</li></ul><h1 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h1><p><code>[老王与小张Github](https:laowangyuxiaozhang.github.io)</code><br><a href="https://laowangyuxiaozhang.github.io/">老王与小张Github</a></p><p><code>[老王与小张bilibili](https://space.bilibili.com/523274472/)</code><br><a href="https://space.bilibili.com/523274472/">老王与小张bilibili</a></p><h1 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h1><p><code>&lt;img src=&quot;/images/wechat_channel.png&quot; alt=&quot;微信公众号&quot; title=&quot;微信公众&quot; width=&quot;200&quot;/&gt;</code></p><p><img src="/images/wechat_channel.png" alt="微信公众号" title="微信公众" width="200"/>`</p><h1 id="斜线字体"><a href="#斜线字体" class="headerlink" title="斜线字体"></a>斜线字体</h1><p><code>*字体是斜的*</code><br><em>字体是斜的</em></p><h1 id="加粗"><a href="#加粗" class="headerlink" title="加粗"></a>加粗</h1><p><code>**加粗字体**</code><br><strong>加粗字体</strong></p><h1 id="引用代码"><a href="#引用代码" class="headerlink" title="引用代码"></a>引用代码</h1><h2 id="单行代码"><a href="#单行代码" class="headerlink" title="单行代码"></a>单行代码</h2><p><code>This is a line of code</code><br><code>This is a line of code</code></p><h2 id="多行代码"><a href="#多行代码" class="headerlink" title="多行代码"></a>多行代码</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">code 1</span><br><span class="line">code 2</span><br><span class="line">code 3</span><br></pre></td></tr></table></figure><h1 id="插入引用"><a href="#插入引用" class="headerlink" title="插入引用"></a>插入引用</h1><p><code>&gt; 写作使人精确-培根</code></p><blockquote><p>写作使人精确-培根</p></blockquote><h1 id="插入pdf"><a href="#插入pdf" class="headerlink" title="插入pdf"></a>插入pdf</h1><p><code>&#123;% pdf /pdf/天问.pdf %&#125;</code></p><div class="pdf-container" data-target="/pdf/天问.pdf" data-height="1000px"></div><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>接下来就是分割线<br>故意多空了一行<br><code>---</code></p><hr><h1 id="插入阅读全文位置"><a href="#插入阅读全文位置" class="headerlink" title="插入阅读全文位置"></a>插入阅读全文位置</h1><p><code>&lt;!-- more --&gt;</code></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="This-is-the-firt-class-title"><a href="#This-is-the-firt-class-title" class="headerlink" title="This is the firt class title"></a>This is the firt class title</h1><p><code># his is the firt class title</code></p><h2 id="This-is-the-second-class-title"><a href="#This-is-the-second-class-title" class="headerlink" title="This is the second class title"></a>This is the second class title</h2><p><code>## This is the second class title</code></p><h3 id="This-is-the-Third-class-title"><a href="#This-is-the-Third-class-title" class="headerlink" title="This is the Third class title"></a>This is the Third class title</h3><p><code>### This is the Third class title</code></p><span id="more"></span><ul><li>list 1</li><li>list 2<br>  a sublist<br>  b sublist</li><li>list 3</li></ul><h1 id="Insert-a-link"><a href="#Insert-a-link" class="headerlink" title="Insert a link"></a>Insert a link</h1><p><code>[Github-by laowangyuxiaozhang](https:laowangyuxiaozhang.github.io)</code><br><a href="https://laowangyuxiaozhang.github.io/">Github-by laowangyuxiaozhang</a></p><p><code>[bilibili-by laowangyuxiaozhang](https://space.bilibili.com/523274472/)</code><br><a href="https://space.bilibili.com/523274472/">bilibili-by laowangyuxiaozhang</a></p><h1 id="insert-a-picture"><a href="#insert-a-picture" class="headerlink" title="insert a picture"></a>insert a picture</h1><p><code>&lt;img src=&quot;/images/wechat_channel.png&quot; alt=&quot;wechat official&quot; title=&quot;echat official&quot; width=&quot;200&quot;/&gt;</code></p><p><img src="/images/wechat_channel.png" alt="wechat official" title="wechat official" width="200"/>`</p><h1 id="Italic"><a href="#Italic" class="headerlink" title="Italic"></a>Italic</h1><p><code>*Italic*</code><br><em>Italic</em></p><h1 id="bold"><a href="#bold" class="headerlink" title="bold"></a>bold</h1><p><code>**bold**</code><br><strong>bold</strong></p><h1 id="code"><a href="#code" class="headerlink" title="code"></a>code</h1><h2 id="code-1"><a href="#code-1" class="headerlink" title="code"></a>code</h2><p><code>This is a line of code</code><br><code>This is a line of code</code></p><h2 id="mutiple-lines-of-code"><a href="#mutiple-lines-of-code" class="headerlink" title="mutiple lines of code"></a>mutiple lines of code</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">code 1</span><br><span class="line">code 2</span><br><span class="line">code 3</span><br></pre></td></tr></table></figure><h1 id="quote"><a href="#quote" class="headerlink" title="quote"></a>quote</h1><p><code>&gt; 写作使人精确-培根</code></p><blockquote><p>写作使人精确-培根</p></blockquote><h1 id="insert-a-pdf"><a href="#insert-a-pdf" class="headerlink" title="insert a pdf"></a>insert a pdf</h1><p><code>&#123;% pdf /pdf/天问.pdf %&#125;</code></p><div class="pdf-container" data-target="/pdf/天问.pdf" data-height="1000px"></div><h1 id="secant-line"><a href="#secant-line" class="headerlink" title="secant line"></a>secant line</h1><p>secant line<br><code>---</code></p><hr><h1 id="insert-a-break-dot-for-reading"><a href="#insert-a-break-dot-for-reading" class="headerlink" title="insert a break dot for reading"></a>insert a break dot for reading</h1><p><code>&lt;!-- more --&gt;</code></p>]]></content>
       
       
       <categories>
           
-          <category> 随笔 </category>
+          <category> writing </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 分享 </tag>
-            
-            <tag> 导航 </tag>
+            <tag> text </tag>
             
         </tags>
       
